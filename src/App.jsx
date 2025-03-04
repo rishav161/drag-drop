@@ -5,6 +5,7 @@ import { DragDropProvider } from "./context/DragDropContext";
 import Sidebar from "./components/Sidebar";
 import DropZone from "./components/DropZone";
 import PropertiesPanel from "./components/PropertiesPanel";
+import "./index.css"
 
 
 function App() {
